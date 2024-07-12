@@ -1,5 +1,5 @@
 1. Register https://dashboard.pixelverse.xyz/
-2. git clone https://github.com/monteksz/pixelverse
+2. git clone https://github.com/HarunTampan/Pxlverse
 3. cd pixelverse
 4. pip install -r requirements.txt
 5. Buat Email outlook bisa @outlook.com / @hotmail.com (DISARANKAN JANGAN PAKAI EMAIL PRIBADI)(DAFTAR DI MODE INCOGNITO BIASANYA GK MINTA OTP)
